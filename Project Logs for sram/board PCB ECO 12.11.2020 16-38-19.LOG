@@ -1,0 +1,17 @@
+Added Component: Designator=R1(0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Resistance"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R2(0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Resistance"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=LGND Pin=R1-1
+Added Pin To Net: NetName=LA12 Pin=R1-2
+Added Pin To Net: NetName=RGND Pin=R2-1
+Added Pin To Net: NetName=RA12 Pin=R2-2
+Added Pin To Net: NetName=L_42 Pin=X4-R_26
+Added Pin To Net: NetName=L_43 Pin=X4-R_28
+Added Pin To Net: NetName=L_44 Pin=X4-R_30
+Added Pin To Net: NetName=LGND Pin=X1-21
+Added Pin To Net: NetName=RGND Pin=X1-40
+Added Member To Class: ClassName=main Member=Component R1 *
+Added Member To Class: ClassName=main Member=Component R2 *
